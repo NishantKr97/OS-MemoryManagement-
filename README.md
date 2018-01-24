@@ -1,4 +1,4 @@
-# OS-MemoryManagement-
+﻿# OS-MemoryManagement-
 This project is based on memory allocation used in OS. It uses partition allocation technique.
 In Partition Allocation, when there are more than one partition freely available to accommodate a process’s request,
 a partition must be selected. To choose a particular partition, a partition allocation method is needed. 
@@ -18,3 +18,5 @@ Below are the various partition allocation schemes :
 
 4. Next Fit Next fit is similar to the first fit but it will search
     for the first sufficient partition from the last allocation point.
+
+This project also includes the concept of "Paging". The memory is accessed using Page Tables.
