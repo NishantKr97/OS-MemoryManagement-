@@ -1,0 +1,1 @@
+This folder contains all the process scheduling algorithms done in the Operating Systems Lab.
