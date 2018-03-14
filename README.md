@@ -1,4 +1,4 @@
-# OS-MemoryManagement-
+# Operating System
 The low-level software that supports a computer's basic functions, such as scheduling tasks and controlling peripherals is called Operating System.
 Some of the Functions of an Operating System are : 
 
